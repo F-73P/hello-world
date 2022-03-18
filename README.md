@@ -1,2 +1,2 @@
 # hello-world
-monic calculator project
+monic - open source hand held calculator 
